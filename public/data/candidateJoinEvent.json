@@ -1,0 +1,56 @@
+[
+    {
+        "userId": 1,
+        "userName": "Ronaldo",
+        "email": "ronaldo@gmail.com",
+        "registerTime": "22/07/2023 16:00"
+    },
+    {
+        "userId": 2,
+        "userName": "Messi",
+        "email": "messi@gmail.com",
+        "registerTime": "24/07/2023 18:00"
+    },
+    {
+        "userId": 3,
+        "userName": "Mbappe",
+        "email": "mbappe@gmail.com",
+        "registerTime": "23/07/2023 15:30"
+    },
+    {
+        "userId": 5,
+        "userName": "Haaland",
+        "email": "haaland@gmail.com",
+        "registerTime": "26/07/2023 09:15"
+    },
+    {
+        "userId": 4,
+        "userName": "Salah",
+        "email": "salah@gmail.com",
+        "registerTime": "25/07/2023 10:30"
+    },
+    {
+        "userId": 7,
+        "userName": "Kroos",
+        "email": "kroos@gmail.com",
+        "registerTime": "22/07/2023 16:00"
+    },
+    {
+        "userId": 8,
+        "userName": "Ibrahimovic",
+        "email": "ibrahimovic@gmail.com",
+        "registerTime": "24/07/2023 18:00"
+    },
+    {
+        "userId": 9,
+        "userName": "Pogba",
+        "email": "pogba@gmail.com",
+        "registerTime": "22/07/2023 16:00"
+    },
+    {
+        "userId": 10,
+        "userName": "Beckham",
+        "email": "beckham@gmail.com",
+        "registerTime": "24/07/2023 18:30"
+    }
+]
